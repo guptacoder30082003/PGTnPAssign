@@ -1,0 +1,17 @@
+python,What is the output of print(2 ** 3)?,6,9,8,7,8
+python,Which one is immutable?,List,Set,Dictionary,Tuple,Tuple
+python,What keyword is used to define a function?,fun,def,function,define,def
+python,Which method is used to add an element to a set?,append(),add(),insert(),extend(),add()
+python,What is the output of len([1, 2, 3, 4])?,3,4,5,2,4
+
+dbms,What does SQL stand for?,Structured Query Language,Simple Query Language,Strong Question List,Sequential Query Language,Structured Query Language
+dbms,Which of the following is a NoSQL database?,MySQL,MongoDB,PostgreSQL,SQLite,MongoDB
+dbms,What is a primary key?,A unique identifier,A foreign key,An index,A type of constraint,A unique identifier
+dbms,Which command is used to remove a table?,DELETE,REMOVE,DROP,CLEAR,DROP
+dbms,What is a foreign key?,A primary key in another table,A unique key,A composite key,None of these,A primary key in another table
+
+dsa,Which data structure follows LIFO?,Queue,Tree,Stack,Graph,Stack
+dsa,Which sorting algorithm has the worst case O(n^2)?,Quick Sort,Merge Sort,Heap Sort,Bubble Sort,Bubble Sort
+dsa,Which of these is not a linear data structure?,Array,Stack,Queue,Tree,Tree
+dsa,What is the time complexity of binary search?,O(log n),O(n),O(n^2),O(1),O(log n)
+dsa,What is the worst case time complexity of merge sort?,O(n log n),O(n),O(log n),O(n^2),O(n log n)
